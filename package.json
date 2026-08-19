@@ -1,0 +1,24 @@
+{
+  "name": "bioinfo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rirong/bioinfo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/rirong/bioinfo/issues"
+  },
+  "homepage": "https://github.com/rirong/bioinfo#readme",
+  "devDependencies": {
+    "honkit": "^6.2.2"
+  }
+}
