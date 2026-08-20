@@ -1,5 +1,7 @@
 # Summary
 
+* [Home](README.md)
+
 ## Introduction
 * [Requirements](aacr-journals/introduction/requirements.md)
 * [Revision Prompts](aacr-journals/introduction/revision-prompts.md)
