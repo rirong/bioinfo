@@ -28,8 +28,3 @@
 * [Requirements](aacr-journals/discussion/requirements.md)
 * [Revision Prompts](aacr-journals/discussion/revision-prompts.md)
 * [Validation Prompts](aacr-journals/discussion/validation-prompts.md)
-
-## Acknowledgements
-* [Requirements](aacr-journals/acknowledgements/requirements.md)
-* [Revision Prompts](aacr-journals/acknowledgements/revision-prompts.md)
-* [Validation Prompts](aacr-journals/acknowledgements/validation-prompts.md)
