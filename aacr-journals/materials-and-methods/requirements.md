@@ -1,4 +1,4 @@
-# Materials and Methods
+# Materials and Methods - Requirements
 
 Explanation of the experimental methods should be adequate for repetition by qualified investigators. Authors are encouraged to publish the step-by-step protocol(s) used in their study at protocols.io and then include the unique digital object identifier(s) (DOI) in the Materials and Methods. Please see Improving Reproducibility for more information.
 

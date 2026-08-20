@@ -4,11 +4,6 @@
 
 # AACR Journals
 
-## Abstract
-* [Requirements](aacr-journals/abstract/requirements.md)
-* [Revision Prompts](aacr-journals/abstract/revision-prompts.md)
-* [Validation Prompts](aacr-journals/abstract/validation-prompts.md)
-
 ## Introduction
 * [Requirements](aacr-journals/introduction/requirements.md)
 * [Revision Prompts](aacr-journals/introduction/revision-prompts.md)
